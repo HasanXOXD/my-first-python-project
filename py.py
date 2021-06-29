@@ -1,3 +1,3 @@
-const rabbi = "lazy";
+const rabbi = "hellow";
 
-console.log(rabbi);
+console.log(rabbi)
